@@ -1,19 +1,18 @@
-variable "public_subnets" {
+variable "pub_sub" {
 
 }
-
 
 variable "vpc_id" {
   type = string
 }
 
-variable "availability_zones" {
+variable "availability_zone" {
 
 }
 
-variable "product" {
+variable "prod" {
 
 }
-variable "environment" {
+variable "env" {
 
 }

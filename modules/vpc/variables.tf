@@ -1,4 +1,4 @@
-variable "vpc_cidr" {
+variable "cidr_block" {
 
 }
 
@@ -6,9 +6,9 @@ variable "tenancy" {
   default = "default"
 }
 
-variable "product" {
+variable "prod" {
 
 }
-variable "environment" {
+variable "env" {
 
 }
